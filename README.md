@@ -49,7 +49,7 @@ I’m currently focused on building a strong **portfolio of real-world projects*
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paruldhami)  
-- 📧 dhamiparul1@email.com (replace with your real one)  
+- 📧 dhamiparul1@email.com 
 - 
 
 ---
