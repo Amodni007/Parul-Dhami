@@ -1,8 +1,9 @@
 # Parul-Dhami
 # 👋 Hi there! I'm Parul Dhami
-Portfolio dhamiparul.netlify.app
 🎯 **Data Analyst | BI Reporting | SQL | Power BI | Python | Data-Driven Decision-Making | Aspiring Data Scientist**
-
+---
+Portfolio
+https://dhamiparul.netlify.app/
 ---
 
 ## 🧠 About Me
@@ -35,8 +36,8 @@ I’m currently focused on building a strong **portfolio of real-world projects*
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paruldhami)  
 - 📧 dhamiparul1@email.com
-- Portfolio dhamiparul.netlify.app
-- 
+- Newsletter https://www.linkedin.com/newsletters/7388028564132118528/
+- Portfolio (https://dhamiparul.netlify.app/)
 
 ---
 
