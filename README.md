@@ -3,7 +3,8 @@
 <h3 align="center">Data Analyst | Business Analyst | Storytelling With Data</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/paruldhami/paruldhami/main/banner.png" alt="GitHub Banner" width="100%">
+<img src="<img width="1536" height="1024" alt="GitHub Banner" src="https://github.com/user-attachments/assets/1a1a1727-0030-4383-951f-b28c13260085" />
+" alt="GitHub Banner" width="100%">
 </p>
 
 <p align="center"><i>“Where numbers meet narrative — proving it with data.”</i></p>
