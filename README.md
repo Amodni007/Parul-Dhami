@@ -15,7 +15,7 @@
 📚 Learning: **Advanced Analytics & Business Intelligence**  
 🌱 Exploring: **Data storytelling, AI dashboards, and predictive modeling**  
 💬 Ask me about **dashboards, data modeling, and project storytelling**  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/paruldhami) • [Portfolio](https://paruldhami.github.io)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/paruldhami/) • [Portfolio](https://dhamiparul.netlify.app/) • [Newsletter](https://www.linkedin.com/newsletters/7388028564132118528/)
 
 ---
 
