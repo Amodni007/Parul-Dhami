@@ -66,7 +66,7 @@ I love blending numbers with narrative to show **how data creates impact**.
 
 <p align="center">
 <a href="https://linkedin.com/in/paruldhami"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dhamiparul1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="mailto:https://mail.google.com/mail/u/2/#inbox"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://dhamiparul.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-20B388?logo=githubpages&logoColor=white" /></a>
 </p>
 
