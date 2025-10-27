@@ -24,7 +24,7 @@
 | Project | Description | Tools |
 |----------|--------------|--------|
 | 🚚 [**Canada Post 3PL Optimization**](https://github.com/paruldhami/canada-post-3pl) | Designed a full analytics pipeline for Canada Post’s third-party logistics — combining Python, SQL, Power BI & Snowflake to improve delivery KPIs and optimize cost performance. | Power BI · Python · SQL · Snowflake · Fabric |
-| 🌍 [**Take Back The Future (TBTF)**](https://github.com/paruldhami/take-back-the-future) | Data storytelling meets sustainability — analyzed global innovation challenges & created interactive dashboards for participant engagement and impact measurement. | Power BI · Python · Excel · Microsoft Fabric · Canva |
+| 🌍 [**Take Back The Future (TBTF)**](https://github.com/paruldhami/take-back-the-future) | Data storytelling meets sustainability — analyzed global innovation challenges & created interactive dashboards for participant engagement and impact measurement. | Power BI · Html · Excel · Circle · Canva |
 | 🧠 [**Reddit Insights Project**](https://github.com/paruldhami/reddit-insights) | NLP-based social listening to extract user emotions, pain points & metaphors — supporting innovation and product design insights. | Python · PostgreSQL · Text Mining · Clustering |
 | 🛒 [**E-Commerce Sales & Returns**](https://github.com/paruldhami/olist-ecommerce-analysis) | Analyzed Brazilian e-commerce sales to understand patterns in returns, delivery delays, and customer satisfaction. | Python · Pandas · Matplotlib · Power BI |
 
@@ -72,13 +72,6 @@ I love blending numbers with narrative to show **how data creates impact**.
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=paruldhami&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paruldhami&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
----
-
-<p align="center">
 💡 *“Data is not just numbers — it’s a story waiting to be told.”*
 </p>
